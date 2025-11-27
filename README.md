@@ -1,4 +1,4 @@
-<!doctype html>
+Made by Shane Henry 
 <html lang="en">
 <head>
 <meta charset="utf-8" />
